@@ -1,16 +1,23 @@
 {
   "name": "react-network-guardian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react", "network", "offline", "guardian"],
+  "keywords": [
+    "react",
+    "network",
+    "offline",
+    "guardian"
+  ],
   "author": "",
   "license": "MIT",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "react": "^19.2.4"
   },

@@ -7,9 +7,9 @@
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["react", "network", "offline", "guardian"]],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "files": ["dist"],
   "dependencies": {
     "react": "^19.2.4"

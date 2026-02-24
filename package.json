@@ -2,13 +2,15 @@
   "name": "react-network-guardian",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "files": ["dist"],
   "dependencies": {
     "react": "^19.2.4"
   },

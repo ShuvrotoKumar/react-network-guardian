@@ -8,12 +8,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react",
-    "network",
-    "offline",
-    "guardian"
-  ],
-  "author": "",
+    
+  "react network status",
+  "react network hook",
+  "react offline detector",
+  "react connection monitor",
+  "react internet status",
+  "react network speed"
+] ,
+  "author": "Shuvroto Kumar",
   "license": "MIT",
   "files": [
     "dist"

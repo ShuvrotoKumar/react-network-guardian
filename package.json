@@ -2,20 +2,20 @@
   "name": "react-network-guardian",
   "version": "1.1.3",
   "description": "",
+  "packageManager": "npm@10.9.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    
-  "react network status",
-  "react network hook",
-  "react offline detector",
-  "react connection monitor",
-  "react internet status",
-  "react network speed"
-] ,
+    "react network status",
+    "react network hook",
+    "react offline detector",
+    "react connection monitor",
+    "react internet status",
+    "react network speed"
+  ],
   "author": "Shuvroto Kumar",
   "license": "MIT",
   "files": [

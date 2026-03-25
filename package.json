@@ -9,12 +9,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react network status",
-    "react network hook",
-    "react offline detector",
-    "react connection monitor",
-    "react internet status",
-    "react network speed"
+    " react-hook",
+    "react-network",
+    "network-detector",
+    "offline-react",
+    "react-offline",
+    "react-network-monitor",
+    "internet-status-react"
   ],
   "author": "Shuvroto Kumar",
   "license": "MIT",
